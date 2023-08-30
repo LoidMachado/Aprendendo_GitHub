@@ -1,2 +1,3 @@
 Aprendendo Git e GitHub 
+Programming is not just the code we write it is the life we chose.
 Git é a melhor ferramenta de versionamento.
