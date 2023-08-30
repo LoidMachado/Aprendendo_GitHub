@@ -1,1 +1,2 @@
-Aprendendo Git e GitHub
+Aprendendo Git e GitHub 
+Git é a melhor ferramenta de versionamento.
